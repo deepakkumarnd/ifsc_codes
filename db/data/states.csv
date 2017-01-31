@@ -1,0 +1,37 @@
+name,type,code
+Andaman and Nicobar Islands,u,AN
+Andhra Pradesh,s,AP
+Arunachal Pradesh,s,AR
+Assam,s,AS
+Bihar,s,BR
+Chandigar,u,CH
+Chhattisgarh,s,CT
+Dadra and Nagar Haveli,u,DN
+Daman and Diu,u,DD
+Delhi,u,DL
+Goa,s,GA
+Gujarat,s,GJ
+Haryana,s,HR
+Himachal Pradesh,s,HP
+Jammu and Kashmir,s,JK
+Jharkhand,s,JH
+Karnataka,s,KA
+Kerala,s,KL
+Lakshadweep,u,LD
+Madhya Pradesh,s,MP
+Maharashtra,s,MH
+Manipur,s,MN
+Meghalaya,s,ML
+Mizoram,s,MZ
+Nagaland,s,NL
+Odisha,s,OR
+Puducherry,u,PY
+Punjab,s,PB
+Rajasthan,s,RJ
+Sikkim,s,SK
+Tamil Nadu,s,TN
+Telangana,s,TG
+Tripura,s,TR
+Uttarakhand,s,UT
+Uttar Pradesh,s,UP
+West Bengal,s,WB
