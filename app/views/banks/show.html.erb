@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Id:</strong>
+  <%= @bank.id %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @bank.name %>
+</p>
+
+<p>
+  <strong>Nbin:</strong>
+  <%= @bank.nbin %>
+</p>
+
+<p>
+  <strong>Ifsc prefix:</strong>
+  <%= @bank.ifsc_prefix %>
+</p>
+
+<p>
+  <strong>Bank type:</strong>
+  <%= @bank.bank_type %>
+</p>
+
+<p>
+  <strong>P2a:</strong>
+  <%= @bank.p2a ? 'YES' : 'NO' %>
+</p>
+
+<p>
+  <strong>Default ifsc:</strong>
+  <%= @bank.default_ifsc %>
+</p>
+
+<%= link_to 'Edit', edit_bank_path(@bank) %> |
+<%= link_to 'Back', banks_path %>

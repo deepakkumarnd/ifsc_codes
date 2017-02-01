@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  nbin: MyString
+  ifsc_prefix: MyString
+  bank_type: MyText
+  p2a: false
+  default_ifsc: MyString
+
+two:
+  name: MyText
+  nbin: MyString
+  ifsc_prefix: MyString
+  bank_type: MyText
+  p2a: false
+  default_ifsc: MyString

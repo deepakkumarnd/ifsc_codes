@@ -1,0 +1,176 @@
+Sl No,Name of the bank,NBIN,IFSC,Type,P2A,Default IFSC
+1,A P Mahesh Co-op. Urban Bank Ltd.,9142,APMC,Co-operative Bank,Live,
+2,Allahabad Bank,9010,ALLA,Public Sector Bank,Live,
+3,Andhra Bank,9011,ANDB,Public Sector Bank,Live,ANDB0000001
+4,Axis Bank Limited,9211,UTIB,Private Bank,Live,UTIB0000003
+5,Bank of Baroda,9012,BARB,Public Sector Bank,Live,BARB0000001
+6,Bank of India,9013,BKID,Public Sector Bank,Live,
+7,Bassein Catholic Co-op. Bank Ltd.,9238,BACB,Co-operative Bank,Live,
+8,BNP Paribas,9034,BNPA,Foreign Bank,Live,BNPA0000001
+9,Canara Bank,9015,CNRB,Public Sector Bank,Live,CNRB0000001
+10,Catholic Syrian Bank Ltd.,9047,CSBK,Private Bank,Live,CSBK0000001
+11,Central Bank of India,9016,CBIN,Public Sector Bank,Live,
+12,Citi Bank N.A.,9037,CITI,Foreign Bank,Live,
+13,City Union Bank Limited,9054,CIUB,Private Bank,Live,CIUB0000001
+14,Corporation Bank,9017,CORP,Public Sector Bank,Live,
+15,Dena Bank,9018,BKDN,Public Sector Bank,Live,
+16,Development Credit Bank Ltd,9072,DCBL,Private Bank,Live,
+17,HDFC Bank Limited,9240,HDFC,Private Bank,Live,HDFC0000001
+18,ICICI Bank Limited,9229,ICIC,Private Bank,Live,ICIC0000001
+19,IDBI Bank Ltd.,9259,IBKL,Public Sector Bank,Live,IBKL0000001
+20,Indian Bank,9019,IDIB,Public Sector Bank,Live,IDIB000M160
+21,Indian Overseas Bank,9020,IOBA,Public Sector Bank,Live,IOBA0000001
+22,IndusInd Bank Limited,9234,INDB,Private Bank,Live,INDB0000001
+23,Jammu & Kashmir Bank Ltd,9051,JAKA,Private Bank,Live,JAKA0000001
+24,Janaseva Sahakari Bank Ltd.,9257,JANA,Co-operative Bank,Live,JANA0000001
+25,"Janata Sahakari Bank Ltd., Pune",9074,JSBP,Co-operative Bank,Live,
+26,Karur Vysya Bank Ltd,9053,KVBL,Private Bank,Live,KVBL0000001
+27,Kotak Mahindra Bank Limited,9485,KKBK,Private Bank,Live,
+28,NKGSB Co-operative Bank Ltd,9086,NKGS,Co-operative Bank,Live,
+29,Oriental Bank of Commerce,9022,ORBC,Public Sector Bank,Live,ORBC0000001
+30,"Punjab & Maharashtra Co-op. Bank Ltd., Mumbai",9328,PMCB,Co-operative Bank,Live,
+31,Punjab & Sind Bank,9023,PSIB,Public Sector Bank,Live,PSIB0000001
+32,Punjab National Bank,9024,PUNB,Public Sector Bank,Live,
+33,South Indian Bank Ltd.,9059,SIBL,Private Bank,Live,
+34,State Bank of Bikaner & Jaipur,9003,SBBJ,Public Sector Bank,Live,SBBJ0000001
+35,State Bank of Hyderabad,9004,SBHY,Public Sector Bank,Live,SBHY0000001
+36,State Bank of India,9002,SBIN,Public Sector Bank,Live,SBIN0000001
+37,State Bank of Mysore,9006,SBMY,Public Sector Bank,Live,SBMY0000001
+38,State Bank of Patiala,9007,STBP,Public Sector Bank,Live,STBP0000001
+39,State Bank of Travancore,9009,SBTR,Public Sector Bank,Live,SBTR0000001
+40,Syndicate Bank,9025,SYNB,Public Sector Bank,Live,
+41,Tamilnad Mercantile Bank Ltd.,9060,TMBL,Private Bank,Live,
+42,The Cosmos Co-operative Bank Ltd.,9164,COSB,Co-operative Bank,Live,
+43,The Development Bank of Singapore Limited,9641,DBSS,Foreign Bank,Live,DBSS0000001
+44,The Dombivli Nagari Sahakari Bank Ltd.,9235,DNSB,Co-operative Bank,Live,
+45,The Federal Bank Limited,9049,FDRL,Private Bank,Live,FDRL0000001
+46,The Greater Bombay Co-operative Bank Ltd.,9095,GBCB,Co-operative Bank,Live,
+47,The Hong Kong & Shanghai Banking Corporation Ltd.,9039,HSBC,Foreign Bank,Live,
+48,The Mehsana Urban Co-operative Bank Ltd.,9313,MSNU,Co-operative Bank,Live,
+49,The Nainital Bank ltd,9184,NTBL,Co-operative Bank,Live,
+50,The Ratnakar Bank Ltd.,9176,RATN,Private Bank,Live,
+51,The Saraswat Co-operative Bank Ltd.,9088,SRCB,Co-operative Bank,Live,
+52,The Thane Janata Sahakari Bank Ltd.,9109,TJSB,Co-operative Bank,Live,
+53,UCO Bank,9028,UCBA,Public Sector Bank,Live,UCBA0000001
+54,Union Bank of India,9026,UBIN,Public Sector Bank,Live,UBIN0000001
+55,United Bank of India,9027,UTBI,Public Sector Bank,Live,UTBI0000001
+56,Vijaya Bank,9029,VIJB,Public Sector Bank,Live,VIJB0000001
+57,Yes Bank Limited,9532,YESB,Private Bank,Live,YESB0000001
+58,Kallapana Ichalkaranji Awade Janaseva Sahakari Bank,9386,KAIJ,Co-operative Bank,Live,
+59,GP Parsik Bank,9312,PJSB,Co-operative Bank,Live,
+60,Pandharpur Merchant Co-operative Bank,8302,ICIC00PMCBL,Co-operative Bank,Live,
+61,Kashi Gomti Samyut Grameen bank,8303,UBIN0RRBKGS,RRB,Live,
+62,Gayatri Bank,8305,HDFC0CTGCUB,Co-operative Bank,Live,
+63,Pochampally Co-op Urban Bank Ltd.,8306,HDFC0CPCUBL,Co-operative Bank,Live,
+64,GI Technology Private Limited,8808,NA,PPI (only for sending),Live,
+65,Oxigen Services (India) Pvt. Ltd.,8888,NA,PPI (only for sending),Live,
+66,Airtel M Commerce Services Ltd.,"8809",NA,PPI (only for sending),Live,
+67,Itz Cash Card Ltd.,8805,NA,PPI (only for sending),Live,
+68,MMP Mobi Wallet Payment Systems Limited,8803,NA,PPI (only for sending),Live,
+69,UAE Exchange & Financial Services Ltd.,8806,NA,PPI (only for sending),Live,
+70,Vodafone m-pesa Limited,8807,NA,PPI (only for sending),Live,
+71,Muthoot Vehicle & Asset Finance Ltd.,8804,NA,PPI (only for sending),Live,
+72,Pay Point India Network Private Limited,8814,NA,PPI (only for sending),Live,
+73,Dr. Annasaheb Chougule Urban Co-op Bank Ltd.,8309,HDFC0CDACUB,Co-operative Bank,Live,
+74,Surat District Co-op Bank,8315,SDCB0000001,Co-operative Bank,Live,
+75,Suco Souharda Sahakari Bank Ltd,8312,HDFC0CSUCOB,Co-operative Bank,Live,
+76,Money on Mobile,8810,NA,PPI (only for sending),Live,
+77,One 97 Communications Ltd.,8812,NA,PPI (only for sending),Live,
+78,Pune Peoples Co-Operative Bank,8366,IBKL0548PPC,Co-operative Bank,Live,
+79,Shri Arihant Co-operative Bank Ltd.,8359,ICIC00ARIHT,Co-operative Bank,Live,
+80,The National Co-operative Bank Ltd.,8307,KKBK0TNCB02,Co-operative Bank,Live,
+81,Parshwanath Co-operative Bank Ltd.,8357,HDFC0CPCB01,Co-operative Bank,Live,
+82,APNA Sahakari Bank Ltd,9480,ASBL,Co-operative Bank,Live,ASBL0000001
+83,Jalore Nagrik Sahakari Bank Ltd.,8351,HDFC0CJALOR,Co-operative Bank,Live,
+84,Varachha Co-op Bank Ltd.,8352,VARA0000001,Co-operative Bank,Live,
+85,Kalupur Commercial Co-op Bank Ltd.,9098,KCCB,Co-operative Bank,Live,KCCB0000001
+86,Bhartiya Mahila bank,9099,BMBL,Public Sector Bank,Live,BMBL0000001
+87,"Janata Co-op Bank, Malegaon",8350,HDFC0CJBMLG,Co-operative Bank,Live,
+88,"Shri Basaveshwar Sahakari Bank Niyamit, Bagalkot",8355,ICIC00SBSBN,Co-operative Bank,Live,
+89,Baroda Uttar Pradesh Gramin Bank,8319,BARB0BUPGBX,RRB,Live,
+90,Bank of Maharashtra,9014,MAHB,Public Sector Bank,Live,
+91,The Shirpur Peoples� Co-op Bank Ltd,8363,KKBK0SPCB01,Co-operative Bank,Live,
+92,Kerala Gramin Bank,8323,KLGB,RRB,Live,
+93,Pragathi Krishna Gramin Bank,8301,PKGB,RRB,Live,
+94,The Abhyudaya Co-operative Bank  Ltd,9650,ABHY,Co-operative Bank,Live,
+95,One MobiKwik Systems Pvt Ltd,8818,NA,PPI (only for sending),Live,
+96,Yadagiri Lakshmi Narasimha Swamy  Co Op Urban Bank Ltd,8314,YESB0YLNS01,Co-operative Bank,Live,
+97,Hutatma Sahakari Bank Ltd.,8384,ICIC00HSBLW,Co-operative Bank,Live,
+98,Eko India Financial Services Pvt Ltd.,8816,NA,PPI (only for sending),Live,
+99,"The Adarsh Urban Co-op. Bank Ltd., Hyderabad",8358,ICIC00ADRSH,Co-operative Bank,Live,
+100,The Mayani Urban Co-operative Bank Ltd,8374,ICIC00TMUCB,Co-operative Bank,Live,
+101,The Pandharpur Urban Co-op Bank Ltd.,8310,ICIC00PUCCB,Co-operative Bank,Live,
+102,Karnataka Bank,9052,KARB,Private Bank,Live,KARB0000001
+103,Rajapur Urban Co-op Bank Ltd.,8382,ICIC00RUCBL,Co-operative Bank,Live,
+104,Spice Digital Ltd.,8821,NA,PPI (only for sending),Live,
+105,Rajgurunagar Sahakari Bank Ltd.,9301,RSBL,Co-operative Bank,Live,
+106,Kalyan Janata Sahakari Bank Ltd.,9367,KJSB,Co-operative Bank,Live,
+107,Thrissur District Co-op Bank Ltd.,8367,IBKL0269TDC,Co-operative Bank,Live,
+108,Shri Veershaiv Co-op Bank Ltd.,8393,HDFC0CVCB02,Co-operative Bank,Live,
+109,Vishweshwar Sahakari Bank Ltd.,8103,VSBL0000001,Co-operative Bank,Live,
+110,Baroda Rajasthan Kshetriya Gramin Bank,8318,BARB0BRGBXX,RRB,Live,
+111,Raipur Urban Merchantile Co-operative Bank Ltd.,8375,HDFC0CTRUMC,Co-operative Bank,Live,
+112,Bandhan Bank,9750,BDBL,Private Bank,Live,BDBL0000001
+113,IDFC Bank,9751,IDFB,Private Bank,Live,IDFB0000001
+114,Maharashtra Grameen Bank,8304,MAHB0RRBMGB,RRB,Live,
+115,Utkal Grameen Bank,8349,SBIN0RRUKGB,RRB,Live,
+116,The Municipal Co-op Bank Ltd.,9110,MUBL,Co-operative Bank,Live,
+117,Nutan Nagarik Sahakari Bank Ltd.,9128,NNSB,Co-operative Bank,Live,
+118,Karnataka Vikas Grameena Bank,8339,KVGB,RRB,Live,
+119,Andhra Pragathi Grameen Bank,8346,APGB,RRB,Live,
+120,The Gujarat State Co-op. Bank Ltd.,9124,GSCB,Co-operative Bank,Live,
+121,The Hasti Co-op Bank Ltd.,9402,HCBL,Co-operative Bank,Live,
+122,India Transact Services Ltd,8813,NA,PPI (only for sending),Live,
+123,The Mahanagar Co.Op. Bank Ltd.,9096,MCBL,Co-operative Bank,Live,
+124,Baroda Gujarat Gramin Bank,8317,BARB0BGGBXX,RRB,Live,
+125,Suvarnayug Sahakari Bank Ltd.,8105,HDFC0CSUVRN,Co-operative Bank,Live,
+126,The Sutex Co-operative Bank Ltd.,8381,SUTB0248001,Co-operative Bank,Live,
+127,Transaction Analysts (India) Pvt Ltd,8819,NA,PPI (only for sending),Live,
+128,Smart Payment Solutions Pvt. Ltd,8824,NA,PPI (only for sending),Live,
+129,Fino Paytech Ltd.,8827,NA,PPI (only for sending),Live,
+130,Kaveri Grameen bank,8345,SBMY0RRCKGB,RRB,Live,
+131,The Chikhli Urban Co-op Bank Ltd.,8104,HDFC0CCUB01,Co-operative Bank,Live,
+132,Saurashtra Gramin Bank.,8327,SBIN0RRSRGB,RRB,Live,
+133,Rajasthan Marudhara Gramin Bank,8331,SBBJ0RRMRGB,RRB,Live,
+134,Purvanchal Bank,8326,SBIN0RRPUGB,RRB,Live,
+135,The Ahmedabad District Co-op Bank Ltd.,8395,GSCB0ADC001,Co-operative Bank,Live,
+136,Lokmangal Co-operative Bank Ltd.,8377,IBKL0478LOK,Co-operative Bank,Live,
+137,Andhra Pradesh Grameena Vikas Bank,8325,SBIN0RRAPGB,RRB,Live,
+138,Lakshmi Vilas Bank,9056,LAVB,Private Bank,Live,
+139,Irinjalakuda Town Co-operative Bank Ltd.,8386,HDFC0CITC01,Co-operative Bank,Live,
+140,Thane Bharat Sahakari Bank Ltd.,9525,TBSB,Co-operative Bank,Live,
+141,Pune Cantonment Sahakari Bank Ltd.,8379,HDFC0CPCSBL,Co-operative Bank,Live,
+142,UTTARAKHAND GRAMIN BANK,8347,SBIN0RRUTGB,RRB,Live,
+143,Barclays Bank PLC,9658,BARC,Foreign Bank,Live,
+144,Atom Technologies Ltd.,8826,NA,PPI (only for sending),Live,
+145,Citrus Payment Solutions Pvt Ltd,8825,NA,PPI (only for sending),Live,
+146,Prathama Bank,8348,PRTH,RRB,Live,
+147,Sutlej Gramin Bank,8340,PSIB0SGB002,RRB,Live,
+148,Jammu & Kashmir Grameen Bank,8177,JAKA0GRAMEN,RRB,Live,
+149,Maratha Co-operative Bank Ltd.,8109,IBKL0101MCB,Co-operative Bank,Live,
+150,Chhattisgarh Rajya Gramin Bank,8176,SBIN0RRCHGB,RRB,Live,
+151,Idea Mobile Commerce Services Ltd.,8829,NA,PPI (only for sending),Live,
+152,Meghalaya Rural Bank,8185,SBIN0RRMEGB,RRB,Live,
+153,Vananchal Gramin Bank,8178,SBIN0RRVCGB,RRB,Live,
+154,Madhyanchal Gramin Bank,8186,SBIN0RRMBGB,RRB,Live,
+155,Telangana Grameena bank,8179,SBHY0RRDCGB,RRB,Live,
+156,Odisha Gramya Bank,8329,IOBA0ROGB01,RRB,Live,
+157,Bharat Co-operative Bank,9112,BCBM0000001,Co-operative Bank,Live,
+158,SVC Co-op Bank Limited,9089,SVCB,Co-operative Bank,Live,
+159,The Jalgaon Peoples Co-op Bank Ltd,9740,JPCB,Co-operative Bank,Live,
+160,Langpi Dehangi Rural Bank,8184,SBIN0RRLDGB,RRB,Live,
+161,Arunachal Pradesh Rural Bank,8182,SBIN0RRARGB,RRB,Live,
+162,Mizoram Rural Bank,8183,SBIN0RRMIGB,RRB,Live,
+163,Weizmann Impex,8830,NA,PPI (only for sending),Live,
+164,Shivajirao Bhosale Sahakari Bank Ltd.,8311,HDFC0CSBB01,Co-operative Bank,Live,
+165,Kedia Infotech Limited,8831,NA,PPI (only for sending),Live,
+166,Ahmednagar Merchant's Co-op. Bank Ltd.,8113,HDFC0CMBANK,Co-operative Bank,Live,
+167,Pavana Sahakari Bank,8130,IBKL0087PSB,Co-operative Bank,Live,
+168,The Vasai Vikas Co-op Bank Ltd,9803,VVSB0000001,Co-operative Bank,Live,
+169,Poornawadi Nagarik Sahakari Bank Maryadit,8106,HDFC0CPNSBL,Co-operative Bank,Live,
+170,Standard Chartered Bank,9036,SCBL,Foreign Bank,Live,
+171,Dhanalakshmi Bank,9048,DLXB,Private Bank,Live,
+172,M Purse Services Pvt Ltd,8823,NA,PPI (only for sending),Live,
+173,"Jalna Merchant's Cooperative Bank Ltd., Jalna",8117,HDFC0CJMCBL,Co-operative Bank,Live,
+174,Kottayam Co-operative Urban Bank Ltd. on,8102,lBKL0027K01,Co-operative Bank,Live,
+175,Shree Mahalaxmi Co-operative Bank Ltd.,8387,IBKL0116MCO,Co-operative Bank,Live,
