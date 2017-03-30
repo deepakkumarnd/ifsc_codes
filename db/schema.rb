@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170201112342) do
+ActiveRecord::Schema.define(version: 20170330072936) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -22,24 +22,9 @@ ActiveRecord::Schema.define(version: 20170201112342) do
     t.text     "bank_type"
     t.boolean  "p2a"
     t.string   "default_ifsc"
-    t.datetime "created_at",   null: false
-    t.datetime "updated_at",   null: false
-  end
-
-  create_table "cities", force: :cascade do |t|
-    t.string   "name"
-    t.integer  "district_id"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
-    t.index ["district_id"], name: "index_cities_on_district_id", using: :btree
-  end
-
-  create_table "districts", force: :cascade do |t|
-    t.string   "name"
-    t.integer  "state_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["state_id"], name: "index_districts_on_state_id", using: :btree
+    t.datetime "created_at",               null: false
+    t.datetime "updated_at",               null: false
+    t.integer  "priority",     default: 0
   end
 
   create_table "states", force: :cascade do |t|
@@ -50,6 +35,4 @@ ActiveRecord::Schema.define(version: 20170201112342) do
     t.string   "stype"
   end
 
-  add_foreign_key "cities", "districts"
-  add_foreign_key "districts", "states"
 end
